@@ -9,7 +9,7 @@ import {
   Navbar, 
   Stats
 } from './components'
-import styles from './style'
+import styles, { layout } from './style'
 
 const App = () => {
   return (
