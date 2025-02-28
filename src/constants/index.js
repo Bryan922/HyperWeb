@@ -35,25 +35,25 @@ export const navLinks = [
 export const features = [
   {
     id: "feature-1",
-    icon: images.icons.techIcon,
+    icon: star,
     title: "Technologie de Pointe",
     content:
       "Exécution ultra-rapide en microsecondes, infrastructure optimisée pour le high-frequency trading et analyse temps réel des données de marché",
   },
   {
     id: "feature-2",
-    icon: images.icons.riskIcon,
+    icon: shield,
     title: "Gestion du Risque Avancée",
     content:
       "Système propriétaire de contrôle des positions avec stop-loss dynamiques et allocation optimale du capital par actif",
   },
   {
     id: "feature-3",
-    icon: images.icons.trendingIcon,
+    icon: send,
     title: "Market Making Intelligent",
     content:
       "Stratégie sophistiquée de market making adaptative qui s'ajuste en temps réel aux conditions de liquidité du marché",
-  },
+  }
 ];
 
 export const stats = [
@@ -71,7 +71,7 @@ export const stats = [
     id: "stats-3",
     title: "Ordres/Seconde",
     value: "500+",
-  },
+  }
 ];
 
 export const footerLinks = [
@@ -94,7 +94,7 @@ export const footerLinks = [
         name: "Technologies",
         link: "#",
       }
-    ],
+    ]
   },
   {
     title: "Performances",
@@ -111,7 +111,7 @@ export const footerLinks = [
         name: "Rapports Mensuels",
         link: "#",
       }
-    ],
+    ]
   },
   {
     title: "Contact",
@@ -128,7 +128,7 @@ export const footerLinks = [
         name: "Support Technique",
         link: "#",
       }
-    ],
+    ]
   }
 ];
 
